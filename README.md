@@ -11,3 +11,6 @@ added to see pull command
 pull through noob
 git log pull
 
+
+
+GIGA COPE FROM HERE
