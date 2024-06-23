@@ -10,8 +10,4 @@ added to see pull command
 
 pull through noob
 git log pull
-
-
-
-GIGA COPE FROM HERE
-17 changed from local
+line 13 changed through locla
