@@ -14,8 +14,3 @@ git log pull
 
 
 
-GIGA COPE FROM HERE
-=======
-merge conflict tut
-merge 2
-
