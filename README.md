@@ -14,3 +14,4 @@ git log pull
 
 
 GIGA COPE FROM HERE
+17 changed from local
