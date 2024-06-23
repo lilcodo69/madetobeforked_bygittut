@@ -10,4 +10,8 @@ added to see pull command
 
 pull through noob
 git log pull
-line 13 changed through locla
+line13 changed by upstream
+
+
+
+
